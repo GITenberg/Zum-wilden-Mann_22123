@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8890
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Raabe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22123#Zum-wilden-Mann
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-07-23'
 gutenberg_type: Text
